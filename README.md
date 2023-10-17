@@ -30,10 +30,7 @@
     <a href="https://discord.gg/5fMMK7eK" target="_blank">
       <img src="https://discord.com/channels/762841385861906433/762841386319478807(https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)">
     </a> 
-    <a href="https://pjhonata483@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/jhonata-rodrigues-515925234" target="_blank">
+    <a href="https://www.linkedin.com/in/jhonata-pereira-rodrigues-515925234/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a> 
 </div>
