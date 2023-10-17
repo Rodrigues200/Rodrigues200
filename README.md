@@ -27,7 +27,7 @@
     <a href="https://instagram.com/j.rodrigues.__?igshid=YmMyMTA2M2Y=" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://discord.gg/5fMMK7eK" target="_blank">
+    <a href="https://discord.gg/eYPwuPTV" target="_blank">
       <img src="https://discord.com/channels/762841385861906433/762841386319478807(https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)">
     </a> 
     <a href="https://www.linkedin.com/in/jhonata-pereira-rodrigues-515925234/" target="_blank">
