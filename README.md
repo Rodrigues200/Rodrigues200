@@ -1,22 +1,22 @@
-### Olá! Eu sou o Jhonata😎
+### Bem Vindo(a), Saudações! Eu sou o Jhonata 🎓
 
-- 🌱 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas
-- 🧐 Procuro trabalhar na área de Analista e Desenvolvedor
-- 💬 Email: pjhonata483@gmail.com
+- 🌱 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas na FECAF
+- ⚜  Formado na Etec de Embu das Artes na Área de Desenvolvimento de Sistemas
+- 🧐 Procuro trabalhar na área de Analista e Desenvolvedor Web
+- 💌 Email: pjhonata483@gmail.com
 
 </br>
 
 <div align="left">
   <a href="https://github.com/Rodrigues200">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigues200&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues200&layout=compact&langs_count=7&theme=cobalt"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigues200&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues200&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rodri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rodri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rodri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rodri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rodri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
